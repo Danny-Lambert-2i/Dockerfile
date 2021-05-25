@@ -1,0 +1,12 @@
+{
+        "type": "service_account",
+        "project_id": "avid-involution-313413",
+        "private_key_id": "7250df0b73933d319a9535b8de4d747c33c86fd2",
+        "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCumQ8viisYSgps\\n2/hnQgrEyAYNDFkw68Sp+LaGyUEWn6EYON4dljc/KlYNzqoRBdRgZfSMLkDyvCJk\\n5/troiueD/k0xrPGq3rVkU1GEgAqj97xQHvuk1gKj+VDYoA/o8wfOtMnvrMkltt5\\noaQD2IyjnBE5ZMnM8oWz20tSHMlX1hQ+wNrVU4/rz6pgI0X8dnPiPmOgQe+hgHQn\\nJjDMsxqiIVBAu4CnAQEyWpJXu9Y1ujqf0WWJqkS+x0+yJY0gBV/OXHlTjAaCPZv9\\nnGk+Wo8F21UXjCioRK/gflXjbJ0bt5yxOZ7VWFDtKn3Gaxs/Me6o77t0a14o7vDi\\n7tdz+mynAgMBAAECggEAEdOv8L8vSkIZEWdeVBCyr8fqkj9+Bdg00tQBsv5uhmRT\\nGvmHeEbjqi/k7HD6/VT2i8ctMnjwibg63Mmw6pr60B86ZzCYn4LXvmGhHbPtz2q0\\nLTbT0Ja7yQxLMNeoV5ceWtvzPl4ixWwfyan+6KOeLIBdY9pOHn5ut1//L0mgJzcZ\\ngIGlRiYctch4gvw1P+KeW00jMXTIGE0ISWG745BwA0czUEt8CYjD2MZrrV1xVwzQ\\nsDNqlOyU6rbQKM/rqPHiWZS4MNw1XGducLyMbXnA3Ia82G43EWk5Xpx8M+cRN0DK\\nZp5N53Kt7u36C2dW8DmlhJujgnf/frlXLRy7hcAOUQKBgQDwOA4am4gwz5GXGrJ6\\nbadOOqqcJ+GQCLFA/0nou1g5DJn0a3gltRwg0y6EpvwbG2ddLxmqe8Z7+1Up8EOA\\n41R0k4dq3AT6TSEB035ePWxoG7MmKtWjiuxBmYWBP0mfvs0dkFNkqK29Ef/8ye/c\\n4w7BIFB/3cJo5g+aJlEGiK00kQKBgQC6EWeaOYzTb6zWrE59AvurZ+XcX9XSbHHn\\n1Ho8gKv772z6ByiZvm0Yx+kuY8BMANt+FTiNTe0zn9uNPTP1Saif9aQTlyHPVeMg\\nU73vEyJIuT2wXMk1dSxnoHFUaAYZy45xdHcH7sgZBrnCkG11MxV47fDjjc2XStYV\\nlgmLRaTJtwKBgQDbz19Qh5tylq0xaJOCpc4fLl2psHCdfOa9hBzcYnnTEi3aU3DI\\niFYpzzRU2/v6zfOieBPzRXmVP6FpU9phGSPR3KFgbd38MBGQ+zc6Atis1xPyS+Xb\\n1aZkTJe2cfPrwgstD0DP7e21AcCNTzc2l2qL3AbtSj24ATSrqH4iDXT4kQKBgGed\\nL5M7fwdzBc2ZsC9/TMRbnC4HFBwUla2irdspUByAbLAi8mIDH9+P23Mgy0HHrHLe\\nwFo3zeJUn79cGKX8ObGx6YebPpGl40/qMjeC8TGMLiUa1lU1hd/DAbkeIF+W8iCN\\n2YcKWlVNYH5PTRTZuJhZ8C3XlmgsnWDx5yiuRKCrAoGBAK+zTAy34naIipAbdifE\\nEDXG2IgSxTOfBhQq8A+Nt+WF/XceQiTCC/DwJzzR7sf4P0E+xDCss8qzcjT6dpJJ\\nF08RXu/VXcX60VMVTiHQEKUEBdYatfTpdW3utyJ+0skssdwqBTy5e0kNWxaP3/yK\\nO1DBuqH1kbZq8Bn30r+hNVVb\\n-----END PRIVATE KEY-----\\n",
+        "client_email": "googlevision@avid-involution-313413.iam.gserviceaccount.com",
+        "client_id": "109520766177481780174",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlevision%40avid-involution-313413.iam.gserviceaccount.com"
+}
